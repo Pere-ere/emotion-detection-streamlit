@@ -1,0 +1,9 @@
+transformers
+huggingface_hub
+streamlit
+numpy
+tensorflow
+pandas
+matplotlib
+PyPDF2
+python-docx
