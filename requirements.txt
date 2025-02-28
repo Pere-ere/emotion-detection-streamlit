@@ -1,10 +1,13 @@
-transformers
-huggingface_hub
-streamlit
-numpy
 tensorflow<2.15
 tf-keras
+transformers
 pandas
 matplotlib
 PyPDF2
 python-docx
+streamlit
+pygments==2.19.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+rich==13.9.4
+
